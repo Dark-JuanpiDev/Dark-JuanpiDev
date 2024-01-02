@@ -25,7 +25,7 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![CentOs](https://img.shields.io/badge/https%3A%2F%2Fi.imgur.com%2Fe5UVIi7.jpg)&nbsp;
+![CentOs](https://img.shields.io/badge/-CentOs-05122A?style=flat&logo=centos)&nbsp;
 <!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\-->
 ## Proyectos destacados
