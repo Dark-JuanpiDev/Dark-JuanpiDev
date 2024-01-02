@@ -1,4 +1,4 @@
-<p align = center ><img src="https://imgur.com/YVlS9je"> </p>
+<p align = center ><img src="[https://imgur.com/YVlS9je](https://i.imgur.com/YVlS9je.png)"> </p>
 
 # ¡Hola! 👋 Soy [Tu Nombre]
 
