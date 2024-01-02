@@ -41,19 +41,8 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 
 Aquí hay algunos de mis proyectos destacados:
 
-- [Proyecto 1](https://github.com/tu-usuario/proyecto-1): Descripción breve del proyecto.
-- [Proyecto 2](https://github.com/tu-usuario/proyecto-2): Descripción breve del proyecto.
-- [Proyecto 3](https://github.com/tu-usuario/proyecto-3): Descripción breve del proyecto.
-
 ## Contacto
 
 Puedes encontrarme en las siguientes redes sociales:
 
-- LinkedIn: [Tu Nombre](https://www.linkedin.com/in/tu-usuario)
-- Twitter: [@tu-usuario](https://twitter.com/tu-usuario)
-
 ¡No dudes en contactarme si tienes alguna pregunta o colaboración!
-<!-- Animación -->
-<p align="center">
-    <img src="https://media.giphy.com/media/your-animation.gif" alt="Animación">
-</p>
