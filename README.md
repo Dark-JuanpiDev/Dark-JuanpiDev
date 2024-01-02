@@ -1,6 +1,6 @@
 <p align = center ><img src="https://i.imgur.com/LZWLL3s.png"> </p>
 
-[![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet)](https://github.com/Dark-JuanpiDev))
+[![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet)](https://github.com/Dark-JuanpiDev)
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
