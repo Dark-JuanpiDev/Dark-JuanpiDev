@@ -1,6 +1,6 @@
 <p align = center ><img src="https://i.imgur.com/LZWLL3s.png"> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Juan+Piero!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Juan+Piero!;I'm+a+Web+Developer...;I'm+a+Java+Programing;And+I+Love+To+Program)](https://git.io/typing-svg)
 
 ## ⭐ Visitas
 
