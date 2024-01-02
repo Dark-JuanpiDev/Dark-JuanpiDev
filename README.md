@@ -1,8 +1,6 @@
 <p align = center ><img src="https://i.imgur.com/LZWLL3s.png"> </p>
 
-# ¡Hola! 👋 Soy [Tu Nombre]
-
-[![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet)](https://github.com/tu-usuario)
+[![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet)](https://github.com/Dark-JuanpiDev))
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
