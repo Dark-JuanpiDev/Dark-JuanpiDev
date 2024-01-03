@@ -24,7 +24,6 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![CentOs](https://img.shields.io/badge/-CentOs-05122A?style=flat&logo=centos)&nbsp;
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=freebsd)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=SQL)&nbsp;
