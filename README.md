@@ -37,7 +37,7 @@ Aquí hay algunos de mis proyectos destacados:
 
 |                     imagen                          |                Icon               |
 | :-------------------------------------------------: | :-------------------------------: |
-|     <img src="./icons/gestion.svg" width="48">      |  Sistema de Gestor de Inventario  |
+|     <img src="./icons/gestion.jpg" width="100">      |  Sistema de Gestor de Inventario  |
 
 ### 🔥 Contacto
 
