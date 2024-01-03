@@ -35,9 +35,10 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 
 Aquí hay algunos de mis proyectos destacados:
 
-|                     imagen                          |                Icon               |
-| :-------------------------------------------------: | :-------------------------------: |
-|     <img src="./icons/Logo_tienda.png" width="100">      |  Sistema de Gestor de Inventario  |
+|                       imagen                           |                Icon               |
+| :----------------------------------------------------: | :-------------------------------: |
+|     <img src="./icons/Logo_tienda.png" width="80">     |  Sistema de Gestor de Inventario  |
+|     <img src="./icons/logo_academia.png" width="80">     |  Minicarta Academia  |
 
 ### 🔥 Contacto
 
