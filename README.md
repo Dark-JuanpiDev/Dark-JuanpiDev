@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Juan+Piero!;I'm+a+Web+Developer...;I'm+a+Java+Programing;And+I+Love+To+Program)](https://git.io/typing-svg)
 
-## ⭐ Visitas
+### ⭐ Visitas
 
 [![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet)](https://github.com/Dark-JuanpiDev)
 
@@ -31,11 +31,11 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 ![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-05122A?style=flat&logo=intellijidea)&nbsp;
 <!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\-->
-## ⚙️ Proyectos destacados
+### ⚙️ Proyectos destacados
 
 Aquí hay algunos de mis proyectos destacados:
 
-## 🔥 Contacto
+### 🔥 Contacto
 
 Puedes encontrarme en las siguientes redes sociales:
 
