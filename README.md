@@ -38,7 +38,7 @@ Aquí hay algunos de mis proyectos destacados:
 |                       Imagen                           |                Nombre               |
 | :----------------------------------------------------: | :-------------------------------: |
 |     <img src="./icons/Logo_tienda.png" width="80">     |  Sistema de Gestor de Inventario  |
-|     <img src="./icons/logo_academia.png" width="80">     |  Minicarta Academia  |
+|     <img src="./icons/logo_academia.png" width="80">     |  <a href="https://github.com/Dark-JuanpiDev/Minicarta-Academia.git" style="text-decoration: none;">Minicarta Academia</a>  |
 
 ### 🔥 Contacto
 
