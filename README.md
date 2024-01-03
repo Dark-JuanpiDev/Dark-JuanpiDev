@@ -35,6 +35,10 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 
 Aquí hay algunos de mis proyectos destacados:
 
+|                     imagen                          |                Icon               |
+| :-------------------------------------------------: | :-------------------------------: |
+|     <img src="./icons/gestion.svg" width="48">      |  Sistema de Gestor de Inventario  |
+
 ### 🔥 Contacto
 
 Puedes encontrarme en las siguientes redes sociales:
