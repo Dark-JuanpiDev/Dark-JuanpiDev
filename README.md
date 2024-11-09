@@ -31,7 +31,7 @@ Soy un apasionado desarrollador de software con experiencia en diferentes tecnol
 ![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-05122A?style=flat&logo=intellijidea)&nbsp;
 <!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\-->
-### ⚙️ Proyectos destacados
+### ⚙️ Algunos Proyectos
 
 Aquí hay algunos de mis proyectos destacados:
 
